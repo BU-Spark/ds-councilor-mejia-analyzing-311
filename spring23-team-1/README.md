@@ -1,5 +1,4 @@
 ## Project Overview - Team 1
-<br>
 
 ### Motivation
 
@@ -15,7 +14,6 @@ Analyze patterns in 311 requests, geography, and various demographics in order t
 
 Using 311 and Social Vulnerability Index datasets, we want to study the relationships between vulnerable populations and their requests.
 
-<br>
 
 ## Navigating the repo
 
