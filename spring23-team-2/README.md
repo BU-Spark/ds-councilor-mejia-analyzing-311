@@ -23,5 +23,6 @@ What is the pattern of demographics and service requests: looking at census bloc
 
 ## Files&Folders navigator:
 - ./data : The data we use, including 311 data, census data, Social Vulnerability data and Trash Collecting Schedule
+	- ./data/data-links.txt : Include the links where we download our data
 - ./deliverables : The code and reports for our deliverables
 - ./scrum-report : The scrum report we did every week
