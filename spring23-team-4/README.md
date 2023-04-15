@@ -1,2 +1,3 @@
 Team 4
-Update this file with your project work and details. 
+
+311 is a telephone number that connects people with service representatives who are always ready to provide non-emergency city services and information. Our project aims to understand the city’s response to 311 service requests by analyzing 311 data. By doing this, we are able to understand which communities feel empowered to demand services and how the city responds. Specifically, we collected and pre-processed the data from CLIMATE READY BOSTON SOCIAL VULNERABILITY dataset and the 311 requests from th past 8 years. We then normalized the data to ensure all variables have fair impacts to the result.
