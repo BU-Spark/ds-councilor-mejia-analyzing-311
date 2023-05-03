@@ -19,10 +19,12 @@ What is the pattern of demographics and service requests: looking at census bloc
 	- All requests
 	- Different request types
 
+- **(Extension)** How is the performance of corresponding service from government according to the 311 response data?
+
 
 
 ## Files&Folders navigator:
 - ./data : The data we use, including 311 data, census data, Social Vulnerability data and Trash Collecting Schedule
 	- ./data/data-links.txt : Include the links where we download our data
-- ./deliverables : The code and reports for our deliverables
+- ./deliverables : The code and reports for our deliverables and extension project
 - ./scrum-report : The scrum report we did every week
