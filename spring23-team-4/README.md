@@ -21,6 +21,18 @@ We have different folders in this repository that summarizes our work.
 
 To run our code on your local device, for python notebooks, install VSCode or use google colab to see our results. For SQL queries, download SQLite on https://sqlite.org/index.html and import the corresponding database in our data folder.
 
+## Base Analysis Questions
+1. Establish social vulnerability status of the location for each 311 requests
+2. What service requests are most common for the city overall and by census tract
+3. What is the pattern of demographics and service requests: looking at census block groups and social vulnerability index
+4. Is the rate of closure for different types of service requests the same across different census tract?
+
+## Extension Analysis Questions
+1. Have the types of requests changed over the years for areas with high social vulnerability people?
+2. How are the requests being reported?
+3. Do areas with more older adults respond well to the new City Worker App?
+
+
 ## Contact
 Kyran Chen, Class of 2023, kyc0510@bu.edu
 
