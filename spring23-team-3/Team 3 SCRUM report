@@ -1,0 +1,33 @@
+
+Weekly Project SCRUM Report
+Date: 02/10/2023
+Project Name: Analyzing 311 Data – Team 3 
+Team Members: Aryaan Upadhyay, Christian DeAsis, Mary Choe, Thiru Satya Surya Mahaveer Bonagiri
+Team member emails: uaryaan@bu.edu, cdeasis@bu.edu , marychoe@bu.edu , mahaveer@bu.edu 
+
+Tasks Completed This Week: Scrum report and updating the team member information on GitHub 
+
+Plans for Next Week: Meet with the PM and team to get a better sense of the plans to asses our actions moving forward
+
+Obstacles and Questions: How do we account for the pandemic and its impact on 311 calls being addressed? 
+
+Met with the client recently? When is the next meeting with the client?: We have not been able to meet with the client as of now. We are yet to establish the next meeting with te 
+
+Project Description: 
+At-Large City Councillor Julia Mejia seeks to understand the city’s response to 311 service requests and if they are resolving them in an equitable manner. You will use 311 data to understand which communities feel empowered in Boston to demand services and how the city responds to empowered residents across the city. 
+
+Why Is This Project Important: 
+This project is important as it helps the councillor understand if the 311 call requests are addressed in an efficient manner. This is important as for smooth and effective functioning it is important that calls are address in a timely and appropriate manner. This also allows to understand which communities feel empowered to use the 311 call service.  
+
+Data Used for Analysis:
+-	311 data from Boston between 2011 – 2022 
+-	We shall aim to establish majority racial and ethnic composition of each 311 request based on block group demographics
+-	We shall also aim to establish social vulnerability status of the location for each 311 requests (based on social vulnerability index which is based on census block group)
+
+Project Limitations: 
+It can be difficult for us to account for anomalies in addressing 311 services during the pandemic. For this, we shall discuss with the PM and the councillor to understand the depth of this anomaly. 
+
+Plan of Action: 
+Set up a time to meet with the team using the link provided by our PM. Then discuss weekly objectives and plan of action for each of these objectives. 
+
+Submitted by: Aryaan Upadhyay, Christian DeAsis, Mary Choe, Thiru Satya Surya Mahaveer Bonagiri for team 3 in Analysing 311 data. 
