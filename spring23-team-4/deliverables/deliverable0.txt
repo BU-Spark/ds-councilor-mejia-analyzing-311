@@ -1,0 +1,34 @@
+Weekly Project SCRUM Report
+Date: 09. Feb.2023
+Project Name: Analyzing 311 Responses
+Team Members: Weichen Jiang, Class of 2023, weichen@bu.edu. Cheng-Ping Lin (Team Leader), Class of 2023, momolin@bu.edu. Kyran Chen, Class of 2023, kyc0510@bu.edu. Jingwei Zhang, Class of 2023, jwz@bu.edu
+Tasks Completed This Week: Understand the demand and work of the project, meet and establish related tools with team members, discuss about way to realize the tasks.
+Plans for Next Week: Start to get in touch to dataset and collect data for the project
+Obstacles and Questions:
+Met with the client recently? When is the next meeting with the client?
+The next meeting will be on next week. Still scheduling for a specific time.
+What is the project focus/overall goal?
+
+Use 311 data to understand which communities feel empowered in Boston to demand services and how the city responds to empowered residents.
+
+Why is the project important?
+
+Analyzing needs will help arrange resources for the different cities to make every community. Ensure every call can be responded to in less time in total. Also, digging inner links between calling and other data will help us to predict how much resources should we provide for a new community with no prior knowledge.
+
+What type of data will you collect or analyze?
+
+Social Vulnerability Index (census block group of vulnerable populations)
+311 databases, an archive of reports received by the City of Boston's 311 system, a set of derived data and associated measures, including the types of cases received by the system, the reporting patterns of individual users, and econometric estimates of neighborhood characteristics. 
+National File Votes, including Election Turnout Figures for the General and Primary of 2018, Residence Address Density, Home Square Footage, Land Square Footage, Residence Address Latitude/Longitude Accuracy, New Cell Phone Numbers, Voting Performance, Voter is New to a District; Voter Has Changed Parties, Residence and mailing address delivery point barcodes and checks digits.
+
+What are the potential limitations of the project?
+
+The bias between people may cause deliberate excellent or bad feedback, which becomes the noise in data.
+People can be emotional when voting and perform differently from their typical pattern, while that’s the period 311 center deals with.
+
+What are your next steps? Divide tasks amongst the team
+
+Step one: visit dataset to collect and get familiar with all recourse data
+Step two: analyze data to get basic features from data
+Step three: observe inner patterns between data and analyze with self-created features
+Team members will deal with different datasets separately and discuss and docking scripts together every week to ensure everyone can use any dataset when analyzing.
