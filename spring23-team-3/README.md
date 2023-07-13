@@ -1,3 +1,13 @@
+
+<h1> Analyzing 311 Requests - Team 3 </h1>
+
+| Name | email | Expected Date of Graduation |
+| --- | --- | --- |
+| Thiru Satya Surya Mahaveer Bonagiri | mahaveer@bu.edu | Class of 2023 |
+| Aryaan Upadhyay | uaryaan@bu.edu | Class of 2023 |
+| Mary Choe | marychoe@bu.edu | Class of 2025 |
+| Christian DeAsis | cdeasis@bu.edu | Class of 2023 |
+
 <h3> Objective </h3>
 
 > At-Large City Councillor Julia Mejia seeks to understand the city’s response to 311 service requests and if they are resolving them in an equitable manner. This project will use 311 data to understand which communities feel empowered in Boston to demand services and how the city responds to empowered residents across the city.
