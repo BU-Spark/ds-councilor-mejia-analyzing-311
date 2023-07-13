@@ -1,0 +1,11 @@
+311 data:
+https://data.boston.gov/dataset/311-service-requests
+
+Social Vulnerability Data:
+https://data.boston.gov/dataset/climate-ready-boston-social-vulnerability
+
+Census data for Boston:
+https://data.boston.gov/dataset/census-data-for-2022-redistricting
+
+Trash Collecting Data:
+https://data.boston.gov/dataset/trash-schedules-by-address
